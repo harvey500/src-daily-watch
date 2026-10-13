@@ -1,0 +1,9 @@
+.DS_Store
+Thumbs.db
+*.log
+state.json
+state.json.*
+src-watch-test-*/
+node_modules/
+.env
+.env.*

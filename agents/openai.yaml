@@ -1,0 +1,6 @@
+interface:
+  display_name: "Daily SRC Opportunity Watch"
+  short_description: "Check public cash bounties and scope changes safely"
+  default_prompt: "Use $src-daily-watch to check today's public cash-paying SRC opportunities without testing any assets."
+policy:
+  allow_implicit_invocation: true
